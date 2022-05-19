@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abi-maker26
-- 👀 I’m interested in C++ 
+- 👀 I’m interested in python
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on unique projects
 - 📫 How to reach me (email:abiramaaarjun@gmail.com)
